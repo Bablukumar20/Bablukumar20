@@ -1,52 +1,143 @@
-<h1 align="center">Hi 👋, I'm Bablu Kumar</h1>
-<h3 align="center">🚀 A Passionate Frontend Developer from India 🇮🇳</h3>
+<!-- Animated Bio Section -->
 
----
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/main/gifs/wave.gif" width="30px"> Hi, I'm Bablu Yadav..!
+</h1>
 
-- 🔭 I’m currently working on a **Web Development E-Commerce App**  
-- 🌱 I’m currently learning **MongoDB, Express.js, React.js, and Node.js** (MERN Stack)  
-- 👨‍💻 All of my projects are available at: [GitHub Profile](https://github.com/Bablukumar20)  
-- 💬 Ask me about **React & Next.js**  
-- 📫 How to reach me: **thenameisbablu01@gmail.com**
-
----
-
-### 🌐 Connect with me
-
-<p align="left">
-  <a href="https://linkedin.com/in/bk2782462@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+<p align="center">
+  I'm a passionate software engineer with a broad range of expertise in various domains, including Backend development with golang, system architecture, and emerging technologies like AI and Machine Learning. My journey in tech has equipped me with a strong foundation in multiple programming languages, frameworks, and tools, making me a versatile and resourceful engineer.
+</p>
+<!-- Social Media Icons -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.leetcode.com/yadavbablu058" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  <a href="https://twitter.com/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
----
+<!-- Tech Stacks -->
+<h2 align="center">🌟 Tech Stacks</h2>
 
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
-  <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX" width="40" height="40"/> </a>
-  <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Programming%20Languages-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="Programming Languages" /> 
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/C%20Language-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C Language" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
 
-<p align="center">✨ Thank you for visiting my profile! ✨</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Web%20Development-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="Web Development" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=flat&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-%23FFAA00.svg?style=flat&logo=huggingface&logoColor=white" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/LangChain-%2300A3E0.svg?style=flat&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Gemini-%237B42F6.svg?style=flat&logo=gemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Generative%20AI-%2300FF7F.svg?style=flat&logo=ai&logoColor=white" alt="Generative AI" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Databases-%2347A248.svg?style=flat&logo=mongodb&logoColor=white" alt="Databases" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DevOps-%232496ED.svg?style=flat&logo=docker&logoColor=white" alt="DevOps" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Version%20Control-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Version Control" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Science%20%26%20AI-%231359AA.svg?style=flat&logo=datascience&logoColor=white" alt="Data Science & AI" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-%230060A1.svg?style=flat&logo=ai&logoColor=white" alt="AI" />
+   <img src="https://img.shields.io/badge/Artificial%20Intelligence-%230060A1.svg?style=flat&logo=ai&logoColor=white" alt="Generative-AI" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-%230098D1.svg?style=flat&logo=ml&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Data%20Science-%231359AA.svg?style=flat&logo=datascience&logoColor=white" alt="Data Science" />
+</p>
+
+# Contact Me :
+
+<p>
+ </br>
+
+
+<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
+
+
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+
+<a href="mailto:ashutosh.saxena.2001@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+</a>
+<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+</br>
+</br>
+</br>
+</a>
+<a href="https://www.reddit.com/user/X_Ashutosh_X">
+  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/reddit.png" />
+</a>
+<a href="https://steamcommunity.com/profiles/76561198182224539/">
+  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
+</a>
+ </p>
+ 
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+
+
+<!-- GitHub Stats -->
+
+<h2 align="center">📊 GitHub Stats</h2> 
+<p align="center">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" /> -->
+</p>
+
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-Thank%20you%20for%20visiting%20%F0%9F%91%8B-orange?style=for-the-badge" alt="Thank You" />
+</p>
