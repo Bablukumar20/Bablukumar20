@@ -1,11 +1,17 @@
 <!-- Animated Bio Section -->
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/main/gifs/wave.gif" width="30px"> Hi, I'm Bablu Yadav..!
+  <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/main/gifs/wave.gif" width="30px"> Hi, I'm Bablu Kumar..!
 </h1>
 
 <p align="center">
-  I'm a passionate software engineer with a broad range of expertise in various domains, including Backend development with golang, system architecture, and emerging technologies like AI and Machine Learning. My journey in tech has equipped me with a strong foundation in multiple programming languages, frameworks, and tools, making me a versatile and resourceful engineer.
+ I'm a passionate software engineer with a broad range of expertise in web development, specializing in backend technologies like Django and Flask. Over the course of my journey, I've built and maintained robust, scalable web applications by combining powerful server-side frameworks with clean and responsive frontend designs.
+
+My skill set includes a deep understanding of RESTful API development, database modeling, authentication systems, and deployment strategies. I also have hands-on experience in frontend development using modern JavaScript libraries, enabling me to deliver seamless full-stack solutions.
+
+Beyond coding, I’m familiar with hosting and deployment processes across platforms like Heroku, Vercel, and traditional VPS, and I’ve also worked with cloud technologies such as AWS to manage infrastructure and optimize performance.
+
+What makes me a resourceful engineer is my ability to bridge the gap between development and operations, and my constant drive to stay updated with the evolving tech landscape. I'm always curious, always learning, and always building.
 </p>
 <!-- Social Media Icons -->
 <p align="center">
@@ -31,7 +37,6 @@
   <img src="https://img.shields.io/badge/C%20Language-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C Language" />
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
@@ -46,10 +51,6 @@
   <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=flat&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-%23FFAA00.svg?style=flat&logo=huggingface&logoColor=white" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/LangChain-%2300A3E0.svg?style=flat&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Gemini-%237B42F6.svg?style=flat&logo=gemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Generative%20AI-%2300FF7F.svg?style=flat&logo=ai&logoColor=white" alt="Generative AI" />
 </p>
 
 <p align="center">
@@ -77,17 +78,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Science%20%26%20AI-%231359AA.svg?style=flat&logo=datascience&logoColor=white" alt="Data Science & AI" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-%230060A1.svg?style=flat&logo=ai&logoColor=white" alt="AI" />
-   <img src="https://img.shields.io/badge/Artificial%20Intelligence-%230060A1.svg?style=flat&logo=ai&logoColor=white" alt="Generative-AI" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-%230098D1.svg?style=flat&logo=ml&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Data%20Science-%231359AA.svg?style=flat&logo=datascience&logoColor=white" alt="Data Science" />
 </p>
 
 # Contact Me :
