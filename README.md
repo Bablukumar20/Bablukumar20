@@ -5,14 +5,15 @@
 </h1>
 
 <p align="center">
- I'm a passionate software engineer with a broad range of expertise in web development, specializing in backend technologies like Django and Flask. Over the course of my journey, I've built and maintained robust, scalable web applications by combining powerful server-side frameworks with clean and responsive frontend designs.
+I'm a passionate software engineer with a broad range of expertise in web development, specializing in backend technologies like <strong>Django</strong> and <strong>Flask</strong>. Over the course of my journey, I've built and maintained robust, scalable web applications by combining powerful server-side frameworks with clean and responsive frontend designs.<br><br>
 
-My skill set includes a deep understanding of RESTful API development, database modeling, authentication systems, and deployment strategies. I also have hands-on experience in frontend development using modern JavaScript libraries, enabling me to deliver seamless full-stack solutions.
+My skill set includes a deep understanding of RESTful API development, database modeling, authentication systems, and deployment strategies. I also have hands-on experience in frontend development using modern JavaScript libraries, enabling me to deliver seamless full-stack solutions.<br><br>
 
-Beyond coding, I’m familiar with hosting and deployment processes across platforms like Heroku, Vercel, and traditional VPS, and I’ve also worked with cloud technologies such as AWS to manage infrastructure and optimize performance.
+Beyond coding, I’m familiar with hosting and deployment processes across platforms like <strong>Heroku</strong>, <strong>Vercel</strong>, and traditional VPS, and I’ve also worked with cloud technologies such as <strong>AWS</strong> to manage infrastructure and optimize performance.<br><br>
 
 What makes me a resourceful engineer is my ability to bridge the gap between development and operations, and my constant drive to stay updated with the evolving tech landscape. I'm always curious, always learning, and always building.
 </p>
+
 <!-- Social Media Icons -->
 <p align="center">
   <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
